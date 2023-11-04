@@ -12,3 +12,7 @@ while password != "Master12":
 
 name = input("\nEnter your name: ")
 print("Welcome, " + name + "! \n")
+
+age = input("\nEnter your age: ")
+
+
