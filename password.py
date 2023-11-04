@@ -9,3 +9,5 @@ while password != "Master12":
     password = input("Enter your password: ")
 
 
+name = input("\nEnter your name: ")
+print("Welcome, " + name + "! \n")
