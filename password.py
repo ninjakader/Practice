@@ -1,6 +1,7 @@
 #password acceptance
 
 print("Hello User \n")
+username = input("Enter your username: ")
 password = input("Enter your password: ")
 
 
